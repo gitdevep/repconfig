@@ -1,3 +1,6 @@
 ##应用名为 bookorder 开发环境配置
 name: bookorder-dev git 555888999lllllkkkkk
 cc: 这是远端的git仓库
+userf:
+  id: 88562
+  name: lkio
